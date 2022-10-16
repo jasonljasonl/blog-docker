@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.form {
+    padding: 30px;
+}
+.form h3 {
+    font-style: italic;
+}
+button {
+    width: 200px;
+    font-size: x-large !important;
+    border-radius: 15px !important;
+}
+a {
+    text-decoration: none !important;
+}
+button a:hover{
+    color: white !important;
+}
+#btn-connexion {
+    background-color: #F4F4F4;
+    border: none
+}
+#btn-connexion:hover{
+    background: #0d6efd;
+}

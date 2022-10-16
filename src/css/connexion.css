@@ -1,0 +1,37 @@
+#formulaire-inscription {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 200px;
+}
+
+input {
+    width: 470px;
+    height: 65px;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 20px !important;
+    background-color: #F4F4F4;
+    font-size: 26px !important;
+}
+button {
+    width: 200px;
+    font-size: x-large !important;
+    border-radius: 15px !important;
+}
+a {
+    text-decoration: none !important;
+}
+a:hover{
+    color: white !important;
+}
+#btn-inscription{
+    background-color: #F4F4F4;
+    border: none
+}
+#btn-inscription:hover{
+    background-color: #0d6efd;
+}
+#btn-connexion {
+    background-color: #0d6efd;
+    border: none
+}
